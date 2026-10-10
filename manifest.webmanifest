@@ -1,0 +1,18 @@
+{
+  "name": "Pizarra K1",
+  "short_name": "Pizarra K1",
+  "description": "Pizarra táctica de voleibol para salidas de K1 con control de faltas de posición.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#2b5f7e",
+  "theme_color": "#0d6b74",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
